@@ -1,0 +1,7 @@
+d:
+cd \python
+python > python test01.py
+  test01.py
+   print('hello')
+/* Install gui tools
+python> pip install wxPython
